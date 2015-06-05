@@ -1,0 +1,32 @@
+Unreal Engine TowerDefense:
+    Menu:
+        ☐ Menu GameOver (Win ou Lose), avec stats de la partie
+        ☐ Ajout d'une option Replay
+        ☐ Ajout d'un dialogue pour l'option exit
+    HUD:
+        ☐ Changer les bouttons de construction
+        ☐ Verrouiller les interactions lors d'un build ou upgrade
+        ☐ Verrouiller le highlight sur la case focus
+        ☐ Ajouter une icone pour l'arrivee des vagues
+        ☐ Ajouter bars de vies enemies
+        ☐ Ajouter texte gain d'or
+        ☐ Ajouter HUD des pouvoirs
+            ☐ Ajouter une bar de mana
+            ☐ Ajouter des icones pour les pouvoirs
+    Gameplay:
+        ☐ Ameliorer systeme de vague
+            ☐ Multiple spawn
+            ☐ Multiple spline
+        ☐ Ajouter condition de victoire et de defaite
+        ☐ Faire systeme de mine avec gain d'or sur la duree et upgrade
+        ☐ Ameliorer pickup
+        ☐ Ameliorer systeme de generation de map
+    Visuel:
+        ☐ Ameliorer visuel d'upgrade
+            ☐ Changement visuel au niveau de la tour
+            ☐ Particle de monte de niveau
+        ☐ Ajouter un model de mine
+        ☐ Ameliorer visuel ennemis (animations/models)
+    Main:
+        ☐ Ameliorer l'equilibre du jeu
+        ☐ Ajouter des niveaux
